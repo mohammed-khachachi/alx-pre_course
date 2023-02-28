@@ -1,4 +1,5 @@
 This is the README file for the alx-pre_course repository.
+--------------------------------------------------------------------
 I Create these directories at the root of my project: bash, c, js
  and I Create these empty files:
 c/c_is_fun.c
